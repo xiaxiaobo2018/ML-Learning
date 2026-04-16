@@ -1,2 +1,5 @@
 .venv-metal/
 __pycache__/
+air-quality-data-set.csv
+analysis_output/
+scripts/analyze_air_quality.py
